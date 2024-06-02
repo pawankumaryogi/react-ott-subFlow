@@ -1,0 +1,45 @@
+.container {
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    margin-left:400px;
+  }
+  
+  .header {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    margin: 20px;
+  }
+  
+  .userInfo {
+    margin-top: 30px;
+  }
+  
+  .subscriptionDetails {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    display: inline-block;
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .subscriptionDetails p {
+    margin: 10px 0;
+  }
+  
+  .logoutButton {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .subscribeButton {
+    margin-top: 20px;
+  }
+  
